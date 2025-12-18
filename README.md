@@ -85,7 +85,7 @@ Alongside development, I actively **mentor engineers**, conduct **code reviews**
 ## 📫 Let’s Connect
 - 📧 Email: **hridesh.pratap.1991@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/hridesh-pratap-singh
-- 🧑‍💻 GitHub: https://github.com/hridesh-pratap-singh
+- 🧑‍💻 GitHub: [https://github.com/hridesh-pratap-singh](https://github.com/Hridesh0809)
 
 ---
 
